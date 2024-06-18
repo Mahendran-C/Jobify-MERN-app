@@ -12,6 +12,13 @@
     "client": "npm start --prefix client",
     "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahendran-C/Jobify-MERN-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mahendran-C/Jobify-MERN-app/issues"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
